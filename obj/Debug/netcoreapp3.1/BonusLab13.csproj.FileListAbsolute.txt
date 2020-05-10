@@ -1,0 +1,11 @@
+C:\Users\harri\source\repos\BonusLab13\bin\Debug\netcoreapp3.1\BonusLab13.exe
+C:\Users\harri\source\repos\BonusLab13\bin\Debug\netcoreapp3.1\BonusLab13.deps.json
+C:\Users\harri\source\repos\BonusLab13\bin\Debug\netcoreapp3.1\BonusLab13.runtimeconfig.json
+C:\Users\harri\source\repos\BonusLab13\bin\Debug\netcoreapp3.1\BonusLab13.runtimeconfig.dev.json
+C:\Users\harri\source\repos\BonusLab13\bin\Debug\netcoreapp3.1\BonusLab13.dll
+C:\Users\harri\source\repos\BonusLab13\bin\Debug\netcoreapp3.1\BonusLab13.pdb
+C:\Users\harri\source\repos\BonusLab13\obj\Debug\netcoreapp3.1\BonusLab13.csprojAssemblyReference.cache
+C:\Users\harri\source\repos\BonusLab13\obj\Debug\netcoreapp3.1\BonusLab13.AssemblyInfoInputs.cache
+C:\Users\harri\source\repos\BonusLab13\obj\Debug\netcoreapp3.1\BonusLab13.AssemblyInfo.cs
+C:\Users\harri\source\repos\BonusLab13\obj\Debug\netcoreapp3.1\BonusLab13.dll
+C:\Users\harri\source\repos\BonusLab13\obj\Debug\netcoreapp3.1\BonusLab13.pdb
